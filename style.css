@@ -10,17 +10,25 @@ body {
 }
 
 h1 {
+    color: #1B1B1B;
     font-size: 1.75rem;
 }
 
 figcaption {
+    color: #8F8F8F;
     font-size: 0.75rem;
 }
 
+.receita {
+    background: #FFFFFF;
+}
+
 h2 {
+    color: #1B1B1B;
     font-size: 1.25rem;
 }
 
 li, p {
+    color: #39393A;
     font-size: 1rem;
 }
