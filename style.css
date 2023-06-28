@@ -15,6 +15,11 @@ h1 {
     text-align: center;
 }
 
+img {
+    width: 100%;
+    border-radius: 15px;
+}
+
 figcaption {
     color: #8F8F8F;
     font-size: 0.75rem;
@@ -23,7 +28,11 @@ figcaption {
 
 .receita {
     background: #FFFFFF;
+    width: 70%;
     line-height: 26px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 15px;
 }
 
 h2 {
