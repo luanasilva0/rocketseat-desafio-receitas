@@ -12,20 +12,28 @@ body {
 h1 {
     color: #1B1B1B;
     font-size: 1.75rem;
+    text-align: center;
 }
 
 figcaption {
     color: #8F8F8F;
     font-size: 0.75rem;
+    text-align: right;
 }
 
 .receita {
     background: #FFFFFF;
+    line-height: 26px;
 }
 
 h2 {
     color: #1B1B1B;
     font-size: 1.25rem;
+    text-align: center;
+}
+
+li {
+    list-style-position: inside;
 }
 
 li, p {
